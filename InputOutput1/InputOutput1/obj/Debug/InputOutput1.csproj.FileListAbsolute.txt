@@ -1,0 +1,8 @@
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\bin\Debug\InputOutput1.exe.config
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\bin\Debug\InputOutput1.exe
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\bin\Debug\InputOutput1.pdb
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\obj\Debug\InputOutput1.csproj.AssemblyReference.cache
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\obj\Debug\InputOutput1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\obj\Debug\InputOutput1.csproj.CoreCompileInputs.cache
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\obj\Debug\InputOutput1.exe
+C:\Users\lupendos\Desktop\FT-10B\InputOutput1\InputOutput1\obj\Debug\InputOutput1.pdb
