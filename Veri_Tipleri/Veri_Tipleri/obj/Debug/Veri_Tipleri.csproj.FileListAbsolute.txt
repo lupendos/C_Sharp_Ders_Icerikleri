@@ -1,0 +1,8 @@
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\bin\Debug\Veri_Tipleri.exe.config
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\bin\Debug\Veri_Tipleri.exe
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\bin\Debug\Veri_Tipleri.pdb
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\obj\Debug\Veri_Tipleri.csproj.AssemblyReference.cache
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\obj\Debug\Veri_Tipleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\obj\Debug\Veri_Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\obj\Debug\Veri_Tipleri.exe
+C:\Users\lupendos\Desktop\FT-10B\Veri_Tipleri\Veri_Tipleri\obj\Debug\Veri_Tipleri.pdb
