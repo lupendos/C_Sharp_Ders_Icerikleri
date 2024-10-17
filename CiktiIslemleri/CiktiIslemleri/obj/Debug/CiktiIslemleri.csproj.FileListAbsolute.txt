@@ -1,0 +1,8 @@
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\bin\Debug\CiktiIslemleri.exe.config
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\bin\Debug\CiktiIslemleri.exe
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\bin\Debug\CiktiIslemleri.pdb
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\obj\Debug\CiktiIslemleri.csproj.AssemblyReference.cache
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\obj\Debug\CiktiIslemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\obj\Debug\CiktiIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\obj\Debug\CiktiIslemleri.exe
+C:\Users\lupendos\Desktop\FT-10B\CiktiIslemleri\CiktiIslemleri\obj\Debug\CiktiIslemleri.pdb
