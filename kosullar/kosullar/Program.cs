@@ -10,12 +10,12 @@ namespace kosullar
     {
         static void Main(string[] args)
         {
-
-            /*
+            /* ÖRNEKLER if-else
+            
              * if -> Eğer
              * Else -> Başka
              * Else if -> Eğer başka
-             */
+             
             int odenecekTutar = 0;
             Console.WriteLine("Nur-Han Restaurant'a Hoşgeldiniz.");
             Console.WriteLine("1)Ana Yemekler\n2)Ara Yemekler\n3)Tatlılar\n4)İçecekler");
@@ -60,8 +60,53 @@ namespace kosullar
                     goto secim;
                 }
             }
+            */
 
+            /* Nurhan Cafe
+            //
+            Console.Write("Kullanıcı adınızı giriniz: ");
+            string username = Console.ReadLine();
+            Console.Write("Şifrenizi giriniz: ");
+            string password = Console.ReadLine();
 
+            if(username == "admin" && password == "1234")
+            {
+                Console.WriteLine("Nurhan Cafe'ye Hoşgeldiniz.");
+                Console.WriteLine("Menü için 1, Bakiye İşlemleri için 2");
+                //Kodun devamı sonra olacaktır.
+            }
+            */
+
+            //Random sayı üretme
+            Random rastgele = new Random();
+            
+            int hak = 3;
+            //Kullanıcı 1-10 arasında bir sayı girecek. Bu sayı bilgisayarın
+            //ürettiği sayı ile aynıysa sayıyı buldun, değilse yanlış sayı.
+            basla:
+            Console.WriteLine("1-10 arasında bir sayı gir");
+            int sayi = Convert.ToInt32(Console.ReadLine());
+            
+            int sayi2 = rastgele.Next(1,10);
+
+            if(sayi == sayi2)
+            {
+                Console.WriteLine("Sayıyı buldun.");
+            }
+            else
+            {
+                --hak;
+                Console.WriteLine("Yanlış sayı girdiniz. Kalan hakkınız: " + hak);
+                if(hak == 0)
+                {
+                    Console.WriteLine("Hakkınız bitti. Doğru sayı: " + sayi2);
+                }
+                else
+                {
+
+                goto basla;
+                }
+            }
 
 
             Console.ReadKey();
